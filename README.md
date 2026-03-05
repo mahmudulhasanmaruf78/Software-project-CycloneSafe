@@ -1,0 +1,2 @@
+Software Project-CycloneSafe
+Cyclones and severe storms can be very dangerous, and many communities are not prepared or lack access to up-to-date information during emergencies. CycloneSafe is a mobile application designed to solve this by offering real-time alerts, safety tips, and emergency plans. By bridging the information gap, this user-friendly digital platform helps individuals prepare for, respond to, and stay safe during cyclones.
